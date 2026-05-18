@@ -14,3 +14,8 @@ Given the weight and the height
 ## Authors
 
 - Dominique SAUVIGNON
+
+## Lanch
+
+- Code with your IDE
+- Start in a Terminal with mvn javafx:run
